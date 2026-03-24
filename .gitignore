@@ -1,0 +1,7 @@
+.project
+.classpath
+.settings
+.mvn
+target/**
+/target/
+src/main/docker/spring_docker_ex01.jar
